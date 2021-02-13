@@ -1,0 +1,7 @@
+pointers from #freebsd on freenode
+
+pkg install Xorg-server Xorg-drivers twm xinit
+
+FreeBSD is not Linux and the VM images are, as I can see, simply there to avoid the installation process in hypervisor contexts
+there is also bsdconfig for many of those tasks
+         
